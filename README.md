@@ -17,10 +17,16 @@ bashchmod +x monitor.sh
 The script will start watching the test/ directory and output events to both the terminal and modificari.txt.
 Press Ctrl+C to stop monitoring.
 Example output
+
 START MONITORIZARE: Wed Apr 29 12:00:00 2026
+
 12:00:05 | [+] A APARUT un fisier/folder nou: test/document.txt | Spatiu Liber: 45G
+
 12:00:12 | [*] S-a MODIFICAT continutul: test/document.txt | Spatiu Liber: 45G
+
 12:00:20 | [-] A DISPARUT (sters): test/document.txt | Spatiu Liber: 45G
+
+
 Tech used
 
 Bash
