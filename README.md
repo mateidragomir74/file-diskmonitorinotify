@@ -35,7 +35,9 @@ df — disk space reporting
 
 Project structure
 ├── monitor.sh        # Main monitoring script
+
 ├── modificari.txt    # Auto-generated event log
+
 └── documentatie.docx # Project documentation
 
 *Project made for the Instructiuni si Tehnici de Baza in Informatica course 
