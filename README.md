@@ -34,6 +34,7 @@ inotifywait (from inotify-tools) — Linux kernel-level file system event monito
 df — disk space reporting
 
 Project structure
+
 ├── monitor.sh        # Main monitoring script
 
 ├── modificari.txt    # Auto-generated event log
